@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536981154893",
+    "project_id": "coffeshop-22a18",
+    "storage_bucket": "coffeshop-22a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536981154893:android:3b2e1f4cdb4c9218204004",
+        "android_client_info": {
+          "package_name": "com.sagara.coffeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBJ648LrkHO5IiPYQpus-9G4Ehw6R7W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
